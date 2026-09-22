@@ -20,6 +20,8 @@ import:   https://raw.githubusercontent.com/LiaTemplates/algebrite/0.7.1/README.
 import:   https://raw.githubusercontent.com/LiaTemplates/JSXGraph/0.0.3/README.md
 -->
 
+[![LiaScript](https://raw.githubusercontent.com/LiaScript/LiaScript/master/badges/course.svg)](https://LiaScript.github.io/course/?https://github.com/LiaPlayground/JSXGraph-Algebrite-Extremwertaufgaben/blob/main/README.md)
+
 # Extremwertaufgaben
 
                         --{{0}}--
